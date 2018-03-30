@@ -11,4 +11,4 @@ aded voice rate settings
 Successful tests inlink down below
 [test results](https://drive.google.com/drive/folders/1hA0vHn6a3rgQ6flJrye63CNY1xHfB6U2?usp=sharing)
 ## added a link to the executable with nonconsole added.
-[text to audio converter download](https://github.com/austinHeisleyCook/Text-to-audiofile-converter/raw/master/main.exe)
+[text to audio converter download fi wanted](https://github.com/austinHeisleyCook/Text-to-audiofile-converter/raw/master/main.exe)
